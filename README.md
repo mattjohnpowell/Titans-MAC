@@ -50,7 +50,7 @@ The model consists of the following key components:
 2.  **Run the training script:**
 
     ```bash
-    python titans_training.py
+    python titans_demo.py
     ```
 
     This will train the model and save checkpoints periodically.
