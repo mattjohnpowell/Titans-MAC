@@ -1,10 +1,10 @@
-# MemorizedTitans (or whichever name you chose)
+# Titan-MAC
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
 
-MemorizedTitans is a PyTorch implementation of a novel neural network architecture inspired by the Titans model, incorporating a unique long-term memory mechanism. This allows the model to retain and utilize information over extended sequences, enhancing its ability to learn complex patterns and generate coherent text. The core innovation is the **Memory as Context (MAC)** module, which enables the network to dynamically query and integrate information from its learned memory into its current processing.
+Titan-MAC is a PyTorch implementation of a novel neural network architecture inspired by the Titans model, incorporating a unique long-term memory mechanism. This allows the model to retain and utilize information over extended sequences, enhancing its ability to learn complex patterns and generate coherent text. The core innovation is the **Memory as Context (MAC)** module, which enables the network to dynamically query and integrate information from its learned memory into its current processing.
 
 ## Key Features
 
