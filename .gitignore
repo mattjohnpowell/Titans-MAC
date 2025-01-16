@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Distribution / packaging
+build/
+dist/
+downloads/
+sdist/
+*.egg-info/
+.eggs/
+eggs/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# PyCharm project files
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Temp files
+*.bak
+*.swp
+*~
+# TensorFlow generated files
+saved_model/
+logs/
+
+# PyTorch generated files
+*.pt
+*.pth
+
+# Specific to your project (if needed)
+# Add any other files or folders you want to ignore here
